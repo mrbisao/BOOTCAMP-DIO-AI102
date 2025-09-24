@@ -30,4 +30,4 @@ AZURE_DEPLOYMENT=”Versão da sua implantação/deployment” ex: o4-mini
 AZURE_API_VERSION=”Versão da API” 2025-01-01-preview
 
 ## Implementação
-
+https://github.com/mrbisao/BOOTCAMP-DIO-AI102/blob/main/Desafio_Tradutor.ipynb
